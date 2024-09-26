@@ -1,0 +1,17 @@
+{
+  "name": "express-book-tracker",
+  "version": "1.0.0",
+  "description": "Track your books with this simple app.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stuart Hahn",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
+  }
+}
